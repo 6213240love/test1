@@ -1,2 +1,0 @@
-anyachuan
-nihao
