@@ -1,6 +1,5 @@
 #!/bin/bash
-datetime=$(date +%Y-%m-%D)
 git add .
-git commit -m "update $datetime"
+git commit -m "update"
 git push origin master
 
